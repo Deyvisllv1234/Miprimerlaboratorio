@@ -1,2 +1,2 @@
-import "math.h"
+include "math1.h"
 
